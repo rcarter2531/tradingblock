@@ -1,0 +1,14 @@
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/bin/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.deps.json
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/bin/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.runtimeconfig.json
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/bin/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.runtimeconfig.dev.json
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/bin/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.dll
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/bin/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.pdb
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.csprojAssemblyReference.cache
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.csproj.CoreCompileInputs.cache
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.RazorAssemblyInfo.cache
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.RazorAssemblyInfo.cs
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.AssemblyInfoInputs.cache
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.AssemblyInfo.cs
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.RazorTargetAssemblyInfo.cache
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.dll
+/Users/rcarter/projects/TradingBlockAPIHomeWork/TradingBlockAPIHomeWork/obj/Debug/netcoreapp2.1/TradingBlockAPIHomeWork.pdb
